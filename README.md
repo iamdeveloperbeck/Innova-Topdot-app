@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Preview in browser: https://innova-topdot-app.vercel.app/
+
+![screencapture-innova-topdot-app-vercel-app-2023-01-12-21_02_41](https://user-images.githubusercontent.com/85181067/212117919-0ccd4ec5-b26a-4409-8a13-7a8c7a276d54.png)
