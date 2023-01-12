@@ -1,0 +1,15 @@
+.slide-swiper {
+    height: 85vh !important;
+}
+
+@media screen and (max-width: 767px) {
+    .slide-swiper {
+      height: 60vh !important;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .slide-swiper {
+      height: 50vh !important;
+    }
+}
